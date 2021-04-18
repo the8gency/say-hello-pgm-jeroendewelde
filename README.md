@@ -28,38 +28,38 @@ Adobe Xd | :bomb: :bomb: :bomb:
 * Problem Solver
 
 # Education
-** Graduaat Programmeren **  
+**Graduaat Programmeren**  
 2020 - ..  
 Artevelde Hogeschool Mariakerke
 
-** New Media & Communicatie Technologie (not finished) **  
+**New Media & Communicatie Technologie (not finished)**  
 Howest Kortrijk
 
-** Elektriciteit Elektronica **  
+**Elektriciteit Elektronica**  
 2007 - 2011  
 Scheppers Instituut Wetteren
 
 
 # Job Experience
-** Quality Inspector **  
+**Quality Inspector**  
 july 2020 - sept 2020  
 Helios Aalter  
 Check products from production and send it to packing and handle the orders to send to shipping.
 
-** Intern **  
+**Intern**  
 dec 2019  
 Influo Gent
 Code Adobe Xd-design of new website, create HTML-emails
 
-** Delivery Driver **  
+**Delivery Driver**  
 2012 - 2020  
 Delivery of rental furniture for events and party's. Contacting customers on location and leaving them statisfied with a perfect delivery.
 
 
 # Languages
-* ** Dutch ** :Native
-* ** English ** :Good
-* ** French ** :Basic
+* **Dutch** :Native
+* **English** :Good
+* **French** :Basic
 
 # Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-jeroendewelde)](https://github.com/pgm-jeroendewelde/github-readme-stats)
