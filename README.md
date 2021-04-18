@@ -1,4 +1,4 @@
-![img of Jeroen](./img/jeroen.jpg)
+![img of Jeroen](./img/jeroen--modified.jpg)
 # About me
 Hi!  
 My name is Jeroen Dewelde, at the moment I'm a student Front-end-Developer at the *Arteveldehogeschool* in Ghent. 
